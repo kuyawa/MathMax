@@ -1,0 +1,40 @@
+TODO:
+
+- nice icon
+- light yellow background
+- add cloud to numbers pad
+- make background transparent in all images
+- remove try again button, use reload icon
+- use scientist Max as guide (einstein clipart)
+
+--------------------------------------------------
+
+DONE:
+
+x design app
+x landscape only
+x nice launchscreen
+x allow kid to select digits
+x on selecting digits, place random numbers
+x longer number on top, shorter below
+x highlite first digit slot in answer
+x kid selects number from pad
+x kid can enable tick over second digit
+x kid can select second number from pad
+x on error, show red color
+x warning until number is right
+x allow to pick next tick or number
+x until all numbers are guessed correctly
+x show "congratulations" message
+x disable all buttons
+x enable "lets try again" buton
+x reset board, random numbers, clean result
+x enable buttons again
+x use colorful numbers inside balloons
+x use chalk-like font
+x pastel colors for background
+x App name
+
+
+
+END.
